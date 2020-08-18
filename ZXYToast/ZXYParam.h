@@ -1,6 +1,6 @@
 //
 //  ZXYParam.h
-//  ZXYToast
+//  ZXYToast1
 //
 //  Created by Linyou-IOS-1 on 17/6/26.
 //  Copyright © 2017年 TGSDK. All rights reserved.
